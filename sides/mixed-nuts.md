@@ -1,12 +1,16 @@
-# Recipe name
+# Mixed Nuts
 
 ## Ingredients
 
-- Ingredient 1
-- Ingredient 2
+- pecan nuts
+- salted peanuts
+- hazelnuts
+- salt if needed
 
 
 ## Instructions
 
-- Step 1
-- Step 2
+- Add everything on a pan
+- Heat until it smells great
+- Let cool down
+- Enjoy!
